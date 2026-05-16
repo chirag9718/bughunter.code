@@ -1,2 +1,2 @@
-# bughunter.code
-bughunter.code
+# bughunter.codes
+bughunter.codes
